@@ -8,12 +8,12 @@ This repository contains a structured and comprehensive Exploratory Data Analysi
 
 | File | Description |
 |------|-------------|
-| `1. Understanding the data.ipynb` | Initial exploration of the dataset, including shape, types, missing values, and basic statistics. |
-| `2. Univariate Analysis (EDA).ipynb` | Analyzes individual features using distributions, histograms, boxplots, etc. |
-| `3. Bivariate_Multivariate Analysis (EDA).ipynb` | Examines relationships between two or more variables using scatter plots, heatmaps, pairplots, etc. |
-| `4. Pandas profiling.ipynb` | Auto-generates a data profiling report using the `pandas-profiling` library. |
-| `5. Standardization.ipynb` | Applies Z-score standardization (mean = 0, std = 1) to scale the numerical data. |
-| `6. Normalization.ipynb` | Applies Min-Max normalization (scales features between 0 and 1). |
+| `Understanding the data.ipynb` | Initial exploration of the dataset, including shape, types, missing values, and basic statistics. |
+| `Univariate Analysis (EDA).ipynb` | Analyzes individual features using distributions, histograms, boxplots, etc. |
+| `Bivariate_Multivariate Analysis (EDA).ipynb` | Examines relationships between two or more variables using scatter plots, heatmaps, pairplots, etc. |
+| `Pandas profiling.ipynb` | Auto-generates a data profiling report using the `pandas-profiling` library. |
+| `Standardization.ipynb` | Applies Z-score standardization (mean = 0, std = 1) to scale the numerical data. |
+| `Normalization.ipynb` | Applies Min-Max normalization (scales features between 0 and 1). |
 
 ---
 
